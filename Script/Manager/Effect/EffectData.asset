@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cbfdd96bce3d9a4fbc87392c36cbdce, type: 3}
+  m_Name: EffectData
+  m_EditorClassIdentifier: 
+  m_EffectData:
+  - m_Name: "\u30D6\u30EC\u30B9"
+    m_ParticleSystem: {fileID: 198077131630905742, guid: 5af3d91794e61094e817c519f2b7d68a, type: 3}
+  - m_Name: "\u9AD8\u901F\u5207\u308A"
+    m_ParticleSystem: {fileID: 198741542255655676, guid: 5bea49531fc500c408823a2e2863106f, type: 3}
+  - m_Name: "\u6A2A\u56DE\u8EE2\u5207\u308A"
+    m_ParticleSystem: {fileID: 198412930389571108, guid: 231e3be01ac50c047bb16d07fd8d2ba5, type: 3}
+  - m_Name: "\u9AD8\u901F\u6A2A\u56DE\u8EE2\u5207\u308A"
+    m_ParticleSystem: {fileID: 198194972081681810, guid: 3be98662c9e7ef5468cb9c4e11010dc7, type: 3}
+  - m_Name: "\u9AD8\u901F\u7E26\u56DE\u8EE2\u5207\u308A"
+    m_ParticleSystem: {fileID: 198761303573775654, guid: 5153725f7adb4cf47952f6201f4ee095, type: 3}
+  - m_Name: "\u56DE\u8EE2\u4E0B"
+    m_ParticleSystem: {fileID: 198102920666579688, guid: bf9f848a24682054e9fddc30f1184e46, type: 3}
+  - m_Name: "\u56DE\u8EE2\u6A2A"
+    m_ParticleSystem: {fileID: 198815321472276864, guid: 3f0def245cefa134c838d34a7f6d2556, type: 3}
+  - m_Name: "\u7A81\u304D"
+    m_ParticleSystem: {fileID: 198659754889719218, guid: 78f2d58f64a6cdd4986872b83d804b6e, type: 3}
+  - m_Name: "\u53E9\u304D\u5207\u308A"
+    m_ParticleSystem: {fileID: 198190562059387860, guid: ca63c6ac7458764498741e0306f78528, type: 3}
+  - m_Name: "\u7E26\u56DE\u8EE2\u5207\u308A"
+    m_ParticleSystem: {fileID: 198102920666579688, guid: ac74642b516c9f440bdab8f51216f321, type: 3}
+  - m_Name: "\u5F37\u56DE\u8EE2\u5207\u308A"
+    m_ParticleSystem: {fileID: 198104556613700186, guid: a8a6ba91edbeef2439175ecf0e08e6fb, type: 3}
+  - m_Name: "\u7279\u6B8A\u5207\u308A1"
+    m_ParticleSystem: {fileID: 198393960337124616, guid: e60d36cff17a1ce4db49ef54f9e72f61, type: 3}
+  - m_Name: "\u7279\u6B8A\u5207\u308A2"
+    m_ParticleSystem: {fileID: 198389531241481992, guid: bfbc37d0bc0e8ff4082a8b2894b3a486, type: 3}
+  - m_Name: "\u30AB\u30A6\u30F3\u30BF\u30FC\u5207\u308A"
+    m_ParticleSystem: {fileID: 198184844789956234, guid: 028b1ae485e846c4688aabad7557e474, type: 3}
+  - m_Name: "\u56DE\u5FA9"
+    m_ParticleSystem: {fileID: 198911005251183256, guid: 87ff66bfbc2ae9c42a2bf98162778db8, type: 3}
+  - m_Name: "\u5730\u5272\u308C"
+    m_ParticleSystem: {fileID: 198662300647181020, guid: fbab27c98b168764eb295cfff1e9f61f, type: 3}
+  - m_Name: "\u7802\u7159"
+    m_ParticleSystem: {fileID: 5576530613064049806, guid: afab852c5bd782847828d6e18be9b92c, type: 3}
+  - m_Name: "\u30C0\u30C3\u30B7\u30E5\u7802\u7159"
+    m_ParticleSystem: {fileID: 5576530613064049806, guid: f340705222dec4347bf5fb00c5d172fb, type: 3}
+  - m_Name: "\u56DE\u907F\u7802\u7159"
+    m_ParticleSystem: {fileID: 5576530613064049806, guid: 53156dbf5c5e8d142a10d45e73df22b9, type: 3}
+  - m_Name: "\u6DF7\u4E71"
+    m_ParticleSystem: {fileID: 5659291355382750469, guid: b3db7d4d711f94d4796743baa5ba7a38, type: 3}
